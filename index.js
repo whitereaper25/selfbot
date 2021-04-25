@@ -30,9 +30,9 @@ const nomer = setting.ownerNumber
 blocked = []
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:ME? \n' 
+            + 'FN:REAPER KING \n' 
             + 'ORG:INI AKU;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6285793432434:+62 857-9343-2434\n' // NOMER HP LU SUU!! 
+            + 'TEL;type=CELL;type=VOICE;waid=919080896537:+91 9080896537\n' // NOMER HP LU SUU!! 
             + 'END:VCARD'
             
 /********** FUNCTION ***************/
